@@ -5,5 +5,3 @@ markdown                 : kramdown
 title                    : "Pages for GitHub"
 title_separator          : "-"
 description              : &A guide for using Pages on GitHub"
-
-theme: jekyll-theme-cayman
