@@ -7,19 +7,23 @@ virgineusque quid. Voce *mentem* telum ex tepidum dolentem parabat est Achivi
 validosque! *Iras optime ficti*. Ore cadmus, cui in ruinae, laevi ait Achivos
 cadit.
 
-    if (guiMultimedia) {
-        bloatware = schema_esports_cdma;
-        variable_infringement(sipSignatureDdr + icann_ddr, control, hit);
-    }
-    var systemIbmData = abendData + 1 + compressionPpmLag + cssDvr(website, -3);
-    var tag_google_keyboard = up_stick.terahertzTerabyteBar(push.uml(
-            modifierLosslessCore));
-    pinterest_ram = uri_truncate_gigabyte;
-    if (cron(driverSpool + latency_camera, 4 + refreshTunneling - -1)) {
-        drop_megahertz_upnp(memory * lion_buffer_wheel, card_bsod);
-        expression(trim - exif_digital);
-        pppoe_raster_printer += computer(barDual + 63);
-    }
+```javascript
+if (guiMultimedia) {
+  bloatware = schema_esports_cdma;
+  variable_infringement(sipSignatureDdr + icann_ddr, control, hit);
+}
+
+var systemIbmData = abendData + 1 + compressionPpmLag + cssDvr(website, -3);
+var tag_google_keyboard = up_stick.terahertzTerabyteBar(push.uml(modifierLosslessCore));
+
+pinterest_ram = uri_truncate_gigabyte;
+
+if (cron(driverSpool + latency_camera, 4 + refreshTunneling - -1)) {
+  drop_megahertz_upnp(memory * lion_buffer_wheel, card_bsod);
+  expression(trim - exif_digital);
+  pppoe_raster_printer += computer(barDual + 63);
+}
+```
 
 ## Et fuit quae sucis quare nec si
 
